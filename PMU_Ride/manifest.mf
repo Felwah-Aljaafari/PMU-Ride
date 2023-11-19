@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+
+echo "# PMU-Ride" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/Felwah-Aljaafari/PMU-Ride.git
+  git push -u origin main
+  git push origin main
+git commit -m "HEAD"
